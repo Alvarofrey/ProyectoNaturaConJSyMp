@@ -1,0 +1,147 @@
+[
+    {
+        "id":2,
+        "nombre":"Tododia Jabon",
+        "precio":"2350",
+        "descripcion":"4u, Mandarina y Frambuesa",
+        "imagen":"jabonfeliz.png",
+        "categoria":"Jabones",
+        "preferenceId":"71235705-353247cd-171e-41e5-b293-9d44d84d8756"
+
+
+    },
+    {
+        "id":3,
+        "nombre":"Tododia Anti-Transpirante Desodorante",
+        "precio":"920",
+        "descripcion":"Invisible,Avellana",
+        "imagen":"antiavellana.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c"
+
+
+
+
+    },
+    {
+        "id":4,
+        "nombre":"Kaiak Perfume Femenino",
+        "precio":"9900",
+        "descripcion":"100ml, Moderada Citrica Rosa",
+        "imagen":"kaiakfem.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0"
+
+
+    },
+    {
+        "id":5,
+        "nombre":"Kaiak Perfume Aventura Femenino",
+        "precio":"9200",
+        "descripcion":"100ml,Moderada,Floral,Notas Marinas",
+        "imagen":"kaiakaventura.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-6fa5d165-6fdb-47a4-8da3-8686e2c2a536"
+
+
+    },
+    {
+        "id":6,
+        "nombre":"Aguas Colonia",
+        "precio":"5800",
+        "descripcion":"150ml,Frutas Tropicales,Jazmin",
+        "imagen":"coloniaaguas.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-4651135d-26ea-4590-b410-2bd9e1d5b8c9"
+
+
+    },
+    {
+        "id":7,
+        "nombre":"Ekos Perfume Maracuyà",
+        "precio":"6500",
+        "descripcion":"150ml,Leve,Cedro,Frutal",
+        "imagen":"ekosmaracuyá.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-47967287-5ccb-443e-8e26-9babe67524c6"
+
+
+    },
+    {
+        "id":8,
+        "nombre":"Tododia Body Splash",
+        "precio":"6300",
+        "descripcion":"200ml, Leve Fresca Limon Flores",
+        "imagen":"bodysplashlimon.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-34625ec8-4c0d-4104-8250-5d9ad212cd3f"
+
+
+    },
+    {
+        "id":9,
+        "nombre":"Tododia Crema Corporal",
+        "precio":"4000",
+        "descripcion":"400ml,Nuez Pecan Cacao Linaza,Prebiotico",
+        "imagen":"cremanuez.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-dc42405c-6668-445e-8eb7-3f9f351615cb"
+
+
+    },
+    {
+        "id":10,
+        "nombre":"Tododia Crema Pies",
+        "precio":"1600",
+        "descripcion":"50ml,Cacao Linaza,Limon",
+        "imagen":"cremapieslimon.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47"
+
+
+    },
+     {
+        "id":14,
+        "nombre":"Lumina Shampoo",
+        "precio":"1450",
+        "descripcion":"300ml,Repuesto,Lisos Naturales,Purifica",
+        "imagen":"luminashampoo.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd"
+
+    },
+    {
+        "id":15,
+        "nombre":"Plant Acondicionador",
+        "precio":"1400",
+        "descripcion":"300ml,Repuesto de Acondicionador, Liso y Suelto ,Queratina Vegetal",
+        "imagen":"plantlisos.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-26807a67-a6d7-42b4-8fb0-96090c7430f"
+
+
+    },
+    {
+        "id":16,
+        "nombre":"Plant Acondicionador",
+        "precio":"1400",
+        "descripcion":"300ml,Repuesto de Acondicionador, Revitalizacion Post-Quimica, Aceite de Nuez Pecan",
+        "imagen":"plantrevita.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-1ffda35f-fbb3-4c0f-a007-b221c9564fc1"
+
+
+    },
+    {
+        "id":17,
+        "nombre":"Plant Acondicionador",
+        "precio":"1400",
+        "descripcion":"300ml,Repuesto de Acondicionador, Hidrataciòn Reparadora, BioaminoÀcidos de Quinoa",
+        "imagen":"planthidratacion.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-1e31b1da-2b64-4ec2-98da-94287aab04e4"
+
+
+    }
+]
+  
